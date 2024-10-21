@@ -8,7 +8,7 @@ URL
 4. Go to build→ add build step →Invoke top level maven targets.
 → Goals → clean package.
 5. Go to post-build actions → add post-build action
-deploy war/Ear to a container
+  deploy war/Ear to a container
 6.War/ear files->column  context path? 
  Target/*. war             myweb
 * Add Container → Tomat 9x. Remote.
